@@ -206,6 +206,21 @@ section {
   gap: 1rem;
 }
 
+.down-arrow{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 20px;
+  position: absolute;
+  /* margin: auto; */
+  left: 0;
+  right: 0;
+  }
+
+  .down-arrow a{
+    text-decoration: none;
+  }
+
 /* ICONS */
 
 .icon {
